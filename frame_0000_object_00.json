@@ -1,0 +1,11 @@
+{
+    "frame_id": 0,
+    "bounding_box": [
+        39,
+        268,
+        96,
+        313
+    ],
+    "distance": 30.22222222222222,
+    "label": "car"
+}
